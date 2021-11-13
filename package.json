@@ -1,0 +1,23 @@
+{
+  "name": "code-quiz-nodejs",
+  "version": "1.0.0",
+  "description": "## User Stories",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajverma2587/code-quiz-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajverma2587/code-quiz-nodejs/issues"
+  },
+  "homepage": "https://github.com/surajverma2587/code-quiz-nodejs#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
